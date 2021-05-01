@@ -18,17 +18,9 @@ class CurrencyConverterWidget extends StatelessWidget {
         children: [
           CurrencyWidget(
             top: true,
-            value: 100,
-            currency: "AUD",
-            symbol: '\$',
-
           ),
           CurrencyWidget(
             top: false,
-            value: 62.67,
-            currency: "EUR",
-            symbol: '€',
-
           ),
         ],
       ),

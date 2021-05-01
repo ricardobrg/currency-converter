@@ -14,13 +14,13 @@ class CurrencyConverterModel  extends ChangeNotifier {
   double get convertedValue => _convertedValue;
   set convertedValue(double convertedValue){
     _convertedValue = convertedValue;
-    _updateValues();
+    _updateOriginal();
   }
 
   double get originalValue => _originalValue;
   set originalValue(double originalValue){
     _originalValue = originalValue;
-    _updateValues();
+    _updateConverted();
   }
 
   set from(String from){
@@ -30,7 +30,7 @@ class CurrencyConverterModel  extends ChangeNotifier {
 
   String get to => _to;
   set to(String to){
-    _from = from;
+    _to = to;
     _updateRate();
   }
 
@@ -71,12 +71,18 @@ class CurrencyConverterModel  extends ChangeNotifier {
   };
 
   void _updateRate() async {
+    print("$from -> $to");
     _rate = await this.api.getRate(from, to);
-    _updateValues();
+    _updateConverted();
   }
 
-  void _updateValues() {
+  void _updateConverted() {
     _convertedValue = _originalValue * _rate;
+    notifyListeners();
+  }
+
+  void _updateOriginal() {
+    _originalValue = _convertedValue / _rate;
     notifyListeners();
   }
 }

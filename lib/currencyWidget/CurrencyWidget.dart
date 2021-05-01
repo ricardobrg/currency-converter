@@ -1,44 +1,32 @@
 import 'package:currency_converter/currencyWidget/model/CurrencyConverterModel.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
-
 
 import 'CurrencySelector.dart';
 
 class CurrencyWidget extends StatelessWidget {
   final bool top;
-  final String currency;
-  final String symbol;
-  final double value;
+  late final String symbol;
+  late final double value;
 
-  const CurrencyWidget(
-      {Key? key,
-        required this.top,
-        required this.currency,
-        required this.symbol,
-        required this.value})
-      : super(key: key);
+  CurrencyWidget({Key? key, required this.top}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    var currency = context.watch<CurrencyConverterModel>();
-    var widgetList = getChildrenWigets(currency);
+    var widgetList = getChildrenWidgets(context);
     return new Container(
       child: new Card(
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(20.0),
         ),
-        margin: EdgeInsets.symmetric(vertical:8, horizontal: 16),
+        margin: EdgeInsets.symmetric(vertical: 8, horizontal: 16),
         child: new Container(
             margin: EdgeInsets.symmetric(horizontal: 32, vertical: 16),
             child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: this.top ?
-                widgetList :
-                List.from(widgetList.reversed)
-            )
-        ),
+                children:
+                    this.top ? widgetList : List.from(widgetList.reversed))),
       ),
       decoration: new BoxDecoration(
         boxShadow: [
@@ -51,15 +39,18 @@ class CurrencyWidget extends StatelessWidget {
     );
   }
 
-  getChildrenWigets(CurrencyConverterModel currency) {
+  getChildrenWidgets(BuildContext context) {
+    CurrencyConverterModel currency = Provider.of<CurrencyConverterModel>(context);
     var type = this.top ? "origin" : "target";
     var symbol = this.top ? currency.from : currency.to;
     var name = this.top ? currency.from : currency.to;
     var value = this.top ? currency.originalValue : currency.convertedValue;
+    var textEditing = new TextEditingController();
+    textEditing.text = value.toStringAsFixed(2);
     return [
       Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        crossAxisAlignment: CrossAxisAlignment.baseline ,
+        crossAxisAlignment: CrossAxisAlignment.baseline,
         textBaseline: TextBaseline.alphabetic,
         children: [
           Text("$symbol $name"),
@@ -68,15 +59,58 @@ class CurrencyWidget extends StatelessWidget {
       ),
       Row(
           mainAxisAlignment: MainAxisAlignment.start,
-          crossAxisAlignment: CrossAxisAlignment.baseline ,
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.baseline,
           textBaseline: TextBaseline.alphabetic,
           children: [
             Text("$symbol ", style: TextStyle(fontSize: 30)),
-            Text(value.toStringAsFixed(2), style: TextStyle(fontSize: 60))
+            Expanded(
+              child: Focus(
+                child: TextField(// do stuff
+                    keyboardType: TextInputType.numberWithOptions(decimal: true),
+                    inputFormatters: [
+                      FilteringTextInputFormatter.allow(RegExp(r'^\d+\.?\d{0,2}')),
+                    ],
+                    decoration: InputDecoration(
+                          border: InputBorder.none,
+                          focusedBorder: InputBorder.none,
+                          enabledBorder: InputBorder.none,
+                          errorBorder: InputBorder.none,
+                          disabledBorder: InputBorder.none,
+
+                    ),
+                    style: TextStyle(
+                      fontSize: 60,
+                      fontWeight: FontWeight.w100,
+                      color: Colors.purpleAccent
+                    ),
+                    controller: textEditing,
+                    onSubmitted: (value) => changeValue(value, currency),
+                    onChanged: (value) => textEditing.value = textEditing.value.copyWith(
+                        text: value,
+                        selection: TextSelection(
+                            baseOffset: value.length,
+                            extentOffset: value.length
+                        )
+                    )
+                ),
+                onFocusChange: (onFocus) {
+                  if(!onFocus) {
+                    changeValue(textEditing.text, currency);
+                  }
+                },
+              )
+            )
           ]
       )
     ];
   }
 
-
+  changeValue(String value, CurrencyConverterModel currency) {
+    if (this.top) {
+      currency.originalValue = double.parse(value);
+    } else {
+      currency.convertedValue = double.parse(value);
+    }
+  }
 }

@@ -1,5 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+
+import 'model/CurrencyConverterModel.dart';
 
 class CurrencySelector extends StatelessWidget{
 
@@ -9,19 +12,22 @@ class CurrencySelector extends StatelessWidget{
 
   @override
   Widget build(BuildContext context) {
-    var dropdownValue = "One";
+    CurrencyConverterModel currency = Provider.of<CurrencyConverterModel>(context);
     return DropdownButton<String>(
-      value: dropdownValue = "One",
-      icon: const Icon(Icons.arrow_downward),
+      value: this.type == "origin" ? currency.from : currency.to,
+      icon: const Icon(Icons.keyboard_arrow_down_outlined),
       iconSize: 24,
       elevation: 16,
       style: const TextStyle(color: Colors.deepPurple),
-      underline: Container(
-        height: 2,
-        color: Colors.deepPurpleAccent,
-      ),
-      onChanged: (value) => print(value),
-      items: <String>['One', 'Two', 'Free', 'Four']
+      onChanged: (value) {
+        print(this.type);
+        if (this.type == "origin") {
+          currency.from = value!;
+        } else {
+          currency.to = value!;
+        }
+      },
+      items: currency.listOfCurrencies.keys.toList()
           .map<DropdownMenuItem<String>>((String value) {
         return DropdownMenuItem<String>(
           value: value,
