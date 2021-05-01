@@ -1,0 +1,486 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/ricardolg/AndroidStudioProjects/currency_converter/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/9a53af67/
+0	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:packages/cupertino_icons/assets/CupertinoIcons.ttf
+0	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	o
+0	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	o	array:0.fonts
+0	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	o	array:1.fonts
+0	build/last_build_run.json	/^["--track-widget-creation"]/;"	s
+0	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+0	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    {$/;"	o	array:images
+1	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+1	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	o
+1	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+1	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    {$/;"	o	array:images
+10	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+10	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+11	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+11	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+12	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+12	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+13	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+13	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+14	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+14	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+15	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+15	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+16	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+16	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+17	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+17	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+18	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+18	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+19	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+2	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+2	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+2	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    {$/;"	o	array:images
+20	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+21	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+22	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+23	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+24	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+25	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+26	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+27	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+28	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+29	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+3	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+3	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+30	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+31	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+32	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+33	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+34	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+35	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+36	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+37	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+38	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+39	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+4	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+4	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+40	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+41	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+42	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+43	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+44	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+45	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+46	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+47	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+48	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+49	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+4NT_args	android/gradlew.bat	/^:4NT_args$/;"	l
+5	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+5	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+50	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+51	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+52	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+53	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+54	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+55	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+56	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+57	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+58	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+6	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+6	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+7	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+7	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+8	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+8	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+9	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+9	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+APP_BASE_NAME	android/gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	v
+APP_HOME	android/gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	v
+CLASSPATH	android/gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	v
+CMD_LINE_ARGS	android/gradlew.bat	/^set CMD_LINE_ARGS=$/;"	v
+CMD_LINE_ARGS	android/gradlew.bat	/^set CMD_LINE_ARGS=%*$/;"	v
+CMD_LINE_ARGS	android/gradlew.bat	/^set CMD_LINE_ARGS=%\$$/;"	v
+DEFAULT_JVM_OPTS	android/gradlew.bat	/^set DEFAULT_JVM_OPTS=$/;"	v
+DIRNAME	android/gradlew.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	v
+DIRNAME	android/gradlew.bat	/^set DIRNAME=%~dp0$/;"	v
+GeneratedPluginRegistrant	android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java	/^public final class GeneratedPluginRegistrant {$/;"	c
+GeneratedPluginRegistrant	ios/Runner/GeneratedPluginRegistrant.h	/^@interface GeneratedPluginRegistrant : NSObject$/;"	i
+GeneratedPluginRegistrant	ios/Runner/GeneratedPluginRegistrant.m	/^@implementation GeneratedPluginRegistrant$/;"	I
+GeneratedPluginRegistrant_h	ios/Runner/GeneratedPluginRegistrant.h	/^#define GeneratedPluginRegistrant_h$/;"	M
+Getting Started	README.md	/^## Getting Started$/;"	s	chapter:currency_converter
+JAVA_EXE	android/gradlew.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	v
+JAVA_EXE	android/gradlew.bat	/^set JAVA_EXE=java.exe$/;"	v
+JAVA_HOME	android/gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v
+Launch Screen Assets	ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md	/^# Launch Screen Assets$/;"	c
+_SKIP	android/gradlew.bat	/^set _SKIP=2$/;"	v
+android.enableJetifier	android/gradle.properties	/^android.enableJetifier=true$/;"	k
+android.useAndroidX	android/gradle.properties	/^android.useAndroidX=true$/;"	k
+asset	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	s	object:0.fonts.0
+asset	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	s	object:1.fonts.0
+author	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    "author" : "xcode"$/;"	s	object:info
+author	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    "author" : "xcode"$/;"	s	object:info
+configVersion	.dart_tool/package_config.json	/^  "configVersion": 2,$/;"	n
+currency_converter	README.md	/^# currency_converter$/;"	c
+die	android/gradlew	/^die ( ) {$/;"	f
+distributionBase	android/gradle/wrapper/gradle-wrapper.properties	/^distributionBase=GRADLE_USER_HOME$/;"	k
+distributionPath	android/gradle/wrapper/gradle-wrapper.properties	/^distributionPath=wrapper\/dists$/;"	k
+distributionUrl	android/gradle/wrapper/gradle-wrapper.properties	/^distributionUrl=https\\:\/\/services.gradle.org\/distributions\/gradle-6.7-all.zip$/;"	k
+end	android/gradlew.bat	/^:end$/;"	l
+execute	android/gradlew.bat	/^:execute$/;"	l
+fail	android/gradlew.bat	/^:fail$/;"	l
+family	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	s	object:0
+family	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	s	object:1
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-1024x1024@1x.png",$/;"	s	object:images.18
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-20x20@1x.png",$/;"	s	object:images.9
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-20x20@2x.png",$/;"	s	object:images.0
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-20x20@2x.png",$/;"	s	object:images.10
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-20x20@3x.png",$/;"	s	object:images.1
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-29x29@1x.png",$/;"	s	object:images.11
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-29x29@1x.png",$/;"	s	object:images.2
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-29x29@2x.png",$/;"	s	object:images.12
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-29x29@2x.png",$/;"	s	object:images.3
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-29x29@3x.png",$/;"	s	object:images.4
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-40x40@1x.png",$/;"	s	object:images.13
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-40x40@2x.png",$/;"	s	object:images.14
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-40x40@2x.png",$/;"	s	object:images.5
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-40x40@3x.png",$/;"	s	object:images.6
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-60x60@2x.png",$/;"	s	object:images.7
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-60x60@3x.png",$/;"	s	object:images.8
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-76x76@1x.png",$/;"	s	object:images.15
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-76x76@2x.png",$/;"	s	object:images.16
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-83.5x83.5@2x.png",$/;"	s	object:images.17
+filename	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "filename" : "LaunchImage.png",$/;"	s	object:images.0
+filename	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "filename" : "LaunchImage@2x.png",$/;"	s	object:images.1
+filename	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "filename" : "LaunchImage@3x.png",$/;"	s	object:images.2
+findJavaFromJavaHome	android/gradlew.bat	/^:findJavaFromJavaHome$/;"	l
+flutter.sdk	android/local.properties	/^flutter.sdk=\/home\/ricardolg\/snap\/flutter\/common\/flutter/;"	k
+fonts	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	a	object:0
+fonts	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	a	object:1
+generated	.dart_tool/package_config.json	/^  "generated": "2021-05-01T01:29:09.535182Z",$/;"	s
+generator	.dart_tool/package_config.json	/^  "generator": "pub",$/;"	s
+generatorVersion	.dart_tool/package_config.json	/^  "generatorVersion": "2.12.3"$/;"	s
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ios-marketing",$/;"	s	object:images.18
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.10
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.11
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.12
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.13
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.14
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.15
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.16
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.17
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.9
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.0
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.1
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.2
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.3
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.4
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.5
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.6
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.7
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.8
+idiom	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "idiom" : "universal",$/;"	s	object:images.0
+idiom	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "idiom" : "universal",$/;"	s	object:images.1
+idiom	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "idiom" : "universal",$/;"	s	object:images.2
+images	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^  "images" : [$/;"	a
+images	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^  "images" : [$/;"	a
+info	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^  "info" : {$/;"	o
+info	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^  "info" : {$/;"	o
+init	android/gradlew.bat	/^:init$/;"	l
+io.flutter.plugins	android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java	/^package io.flutter.plugins;$/;"	p
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "1.24"$/;"	s	object:packages.29
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.0
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.1
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.10
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.11
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.12
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.13
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.14
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.15
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.16
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.17
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.18
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.19
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.2
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.20
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.21
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.22
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.23
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.24
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.25
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.26
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.27
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.28
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.3
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.30
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.31
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.32
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.33
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.34
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.35
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.36
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.37
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.38
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.39
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.4
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.40
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.41
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.42
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.43
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.44
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.45
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.46
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.47
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.48
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.49
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.5
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.50
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.51
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.52
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.53
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.54
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.55
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.56
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.57
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.58
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.6
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.7
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.8
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.9
+mainEnd	android/gradlew.bat	/^:mainEnd$/;"	l
+name	.dart_tool/package_config.json	/^      "name": "_fe_analyzer_shared",$/;"	s	object:packages.0
+name	.dart_tool/package_config.json	/^      "name": "analyzer",$/;"	s	object:packages.1
+name	.dart_tool/package_config.json	/^      "name": "args",$/;"	s	object:packages.2
+name	.dart_tool/package_config.json	/^      "name": "async",$/;"	s	object:packages.3
+name	.dart_tool/package_config.json	/^      "name": "boolean_selector",$/;"	s	object:packages.4
+name	.dart_tool/package_config.json	/^      "name": "characters",$/;"	s	object:packages.5
+name	.dart_tool/package_config.json	/^      "name": "charcode",$/;"	s	object:packages.6
+name	.dart_tool/package_config.json	/^      "name": "cli_util",$/;"	s	object:packages.7
+name	.dart_tool/package_config.json	/^      "name": "clock",$/;"	s	object:packages.8
+name	.dart_tool/package_config.json	/^      "name": "collection",$/;"	s	object:packages.9
+name	.dart_tool/package_config.json	/^      "name": "convert",$/;"	s	object:packages.10
+name	.dart_tool/package_config.json	/^      "name": "coverage",$/;"	s	object:packages.11
+name	.dart_tool/package_config.json	/^      "name": "crypto",$/;"	s	object:packages.12
+name	.dart_tool/package_config.json	/^      "name": "cupertino_icons",$/;"	s	object:packages.13
+name	.dart_tool/package_config.json	/^      "name": "currency_converter",$/;"	s	object:packages.58
+name	.dart_tool/package_config.json	/^      "name": "fake_async",$/;"	s	object:packages.14
+name	.dart_tool/package_config.json	/^      "name": "file",$/;"	s	object:packages.15
+name	.dart_tool/package_config.json	/^      "name": "flutter",$/;"	s	object:packages.16
+name	.dart_tool/package_config.json	/^      "name": "flutter_test",$/;"	s	object:packages.17
+name	.dart_tool/package_config.json	/^      "name": "glob",$/;"	s	object:packages.18
+name	.dart_tool/package_config.json	/^      "name": "http",$/;"	s	object:packages.19
+name	.dart_tool/package_config.json	/^      "name": "http_multi_server",$/;"	s	object:packages.20
+name	.dart_tool/package_config.json	/^      "name": "http_parser",$/;"	s	object:packages.21
+name	.dart_tool/package_config.json	/^      "name": "io",$/;"	s	object:packages.22
+name	.dart_tool/package_config.json	/^      "name": "js",$/;"	s	object:packages.23
+name	.dart_tool/package_config.json	/^      "name": "logging",$/;"	s	object:packages.24
+name	.dart_tool/package_config.json	/^      "name": "matcher",$/;"	s	object:packages.25
+name	.dart_tool/package_config.json	/^      "name": "meta",$/;"	s	object:packages.26
+name	.dart_tool/package_config.json	/^      "name": "mime",$/;"	s	object:packages.27
+name	.dart_tool/package_config.json	/^      "name": "nested",$/;"	s	object:packages.28
+name	.dart_tool/package_config.json	/^      "name": "node_preamble",$/;"	s	object:packages.29
+name	.dart_tool/package_config.json	/^      "name": "package_config",$/;"	s	object:packages.30
+name	.dart_tool/package_config.json	/^      "name": "path",$/;"	s	object:packages.31
+name	.dart_tool/package_config.json	/^      "name": "pedantic",$/;"	s	object:packages.32
+name	.dart_tool/package_config.json	/^      "name": "pool",$/;"	s	object:packages.33
+name	.dart_tool/package_config.json	/^      "name": "provider",$/;"	s	object:packages.34
+name	.dart_tool/package_config.json	/^      "name": "pub_semver",$/;"	s	object:packages.35
+name	.dart_tool/package_config.json	/^      "name": "shelf",$/;"	s	object:packages.36
+name	.dart_tool/package_config.json	/^      "name": "shelf_packages_handler",$/;"	s	object:packages.37
+name	.dart_tool/package_config.json	/^      "name": "shelf_static",$/;"	s	object:packages.38
+name	.dart_tool/package_config.json	/^      "name": "shelf_web_socket",$/;"	s	object:packages.39
+name	.dart_tool/package_config.json	/^      "name": "sky_engine",$/;"	s	object:packages.40
+name	.dart_tool/package_config.json	/^      "name": "source_map_stack_trace",$/;"	s	object:packages.41
+name	.dart_tool/package_config.json	/^      "name": "source_maps",$/;"	s	object:packages.42
+name	.dart_tool/package_config.json	/^      "name": "source_span",$/;"	s	object:packages.43
+name	.dart_tool/package_config.json	/^      "name": "stack_trace",$/;"	s	object:packages.44
+name	.dart_tool/package_config.json	/^      "name": "stream_channel",$/;"	s	object:packages.45
+name	.dart_tool/package_config.json	/^      "name": "string_scanner",$/;"	s	object:packages.46
+name	.dart_tool/package_config.json	/^      "name": "term_glyph",$/;"	s	object:packages.47
+name	.dart_tool/package_config.json	/^      "name": "test",$/;"	s	object:packages.48
+name	.dart_tool/package_config.json	/^      "name": "test_api",$/;"	s	object:packages.49
+name	.dart_tool/package_config.json	/^      "name": "test_core",$/;"	s	object:packages.50
+name	.dart_tool/package_config.json	/^      "name": "typed_data",$/;"	s	object:packages.51
+name	.dart_tool/package_config.json	/^      "name": "vector_math",$/;"	s	object:packages.52
+name	.dart_tool/package_config.json	/^      "name": "vm_service",$/;"	s	object:packages.53
+name	.dart_tool/package_config.json	/^      "name": "watcher",$/;"	s	object:packages.54
+name	.dart_tool/package_config.json	/^      "name": "web_socket_channel",$/;"	s	object:packages.55
+name	.dart_tool/package_config.json	/^      "name": "webkit_inspection_protocol",$/;"	s	object:packages.56
+name	.dart_tool/package_config.json	/^      "name": "yaml",$/;"	s	object:packages.57
+omega	android/gradlew.bat	/^:omega$/;"	l
+org.gradle.jvmargs	android/gradle.properties	/^org.gradle.jvmargs=-Xmx1536M$/;"	k
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.0
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.1
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.10
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.11
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.12
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.13
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.14
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.15
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.16
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.17
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.18
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.19
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.2
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.20
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.21
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.22
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.23
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.24
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.25
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.26
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.27
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.28
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.29
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.3
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.30
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.31
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.32
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.33
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.34
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.35
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.36
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.37
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.38
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.39
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.4
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.40
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.41
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.42
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.43
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.44
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.45
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.46
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.47
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.48
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.49
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.5
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.50
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.51
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.52
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.53
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.54
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.55
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.56
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.57
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.58
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.6
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.7
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.8
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.9
+packages	.dart_tool/package_config.json	/^  "packages": [$/;"	a
+packages/cupertino_icons/assets/CupertinoIcons.ttf	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+registerWith	android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java	/^  public static void registerWith(@NonNull FlutterEngine flutterEngine) {$/;"	m	class:GeneratedPluginRegistrant
+registerWithRegistry:	ios/Runner/GeneratedPluginRegistrant.h	/^+ (void)registerWithRegistry:(NSObject<FlutterPluginRegistry>*)registry;$/;"	c	interface:GeneratedPluginRegistrant
+registerWithRegistry:	ios/Runner/GeneratedPluginRegistrant.m	/^+ (void)registerWithRegistry:(NSObject<FlutterPluginRegistry>*)registry {$/;"	c	implementation:GeneratedPluginRegistrant
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "..\/",$/;"	s	object:packages.58
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.0
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.1
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.10
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.11
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.12
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.13
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.14
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.15
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.18
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.19
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.2
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.20
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.21
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.22
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.23
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.24
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.25
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.26
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.27
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.28
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.29
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.3
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.30
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.31
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.32
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.33
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.34
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.35
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.36
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.37
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.38
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.39
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.4
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.41
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.42
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.43
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.44
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.45
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.46
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.47
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.48
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.49
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.5
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.50
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.51
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.52
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.53
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.54
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.55
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.56
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.57
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.6
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.7
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.8
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/.pub-cache\/hosted/;"	s	object:packages.9
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/bin\/cache\/pkg\/s/;"	s	object:packages.40
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/packages\/flutter"/;"	s	object:packages.16
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/home\/ricardolg\/snap\/flutter\/common\/flutter\/packages\/flutter_/;"	s	object:packages.17
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.11
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.13
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.15
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.18
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.2
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.9
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.0
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.10
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.12
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.14
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.16
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.17
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.3
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.5
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.7
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "3x"$/;"	s	object:images.1
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "3x"$/;"	s	object:images.4
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "3x"$/;"	s	object:images.6
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "3x"$/;"	s	object:images.8
+scale	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.0
+scale	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.1
+scale	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "scale" : "3x"$/;"	s	object:images.2
+sdk.dir	android/local.properties	/^sdk.dir=\/home\/ricardolg\/Android\/Sdk$/;"	k
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "1024x1024",$/;"	s	object:images.18
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "20x20",$/;"	s	object:images.0
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "20x20",$/;"	s	object:images.1
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "20x20",$/;"	s	object:images.10
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "20x20",$/;"	s	object:images.9
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	s	object:images.11
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	s	object:images.12
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	s	object:images.2
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	s	object:images.3
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	s	object:images.4
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "40x40",$/;"	s	object:images.13
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "40x40",$/;"	s	object:images.14
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "40x40",$/;"	s	object:images.5
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "40x40",$/;"	s	object:images.6
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "60x60",$/;"	s	object:images.7
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "60x60",$/;"	s	object:images.8
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "76x76",$/;"	s	object:images.15
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "76x76",$/;"	s	object:images.16
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "83.5x83.5",$/;"	s	object:images.17
+splitJvmOpts	android/gradlew	/^function splitJvmOpts() {$/;"	f
+version	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    "version" : 1,$/;"	n	object:info
+version	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    "version" : 1,$/;"	n	object:info
+warn	android/gradlew	/^warn ( ) {$/;"	f
+win9xME_args	android/gradlew.bat	/^:win9xME_args$/;"	l
+win9xME_args_slurp	android/gradlew.bat	/^:win9xME_args_slurp$/;"	l
+zipStoreBase	android/gradle/wrapper/gradle-wrapper.properties	/^zipStoreBase=GRADLE_USER_HOME$/;"	k
+zipStorePath	android/gradle/wrapper/gradle-wrapper.properties	/^zipStorePath=wrapper\/dists$/;"	k
