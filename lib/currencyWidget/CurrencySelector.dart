@@ -20,7 +20,6 @@ class CurrencySelector extends StatelessWidget{
       elevation: 16,
       style: const TextStyle(color: Colors.deepPurple),
       onChanged: (value) {
-        print(this.type);
         if (this.type == "origin") {
           currency.from = value!;
         } else {

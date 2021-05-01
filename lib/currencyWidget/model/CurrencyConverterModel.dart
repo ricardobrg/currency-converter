@@ -71,7 +71,6 @@ class CurrencyConverterModel  extends ChangeNotifier {
   };
 
   void _updateRate() async {
-    print("$from -> $to");
     _rate = await this.api.getRate(from, to);
     _updateConverted();
   }
@@ -83,6 +82,18 @@ class CurrencyConverterModel  extends ChangeNotifier {
 
   void _updateOriginal() {
     _originalValue = _convertedValue / _rate;
+    notifyListeners();
+  }
+
+  changeValues() {
+    var newOrValue = this._convertedValue;
+    var newToValue = this._originalValue;
+    this._convertedValue = newToValue;
+    this._originalValue = newOrValue;
+    var newFrom = this.to;
+    var newTo = this.from;
+    this._from = newFrom;
+    this._to = newTo;
     notifyListeners();
   }
 }
